@@ -1,7 +1,15 @@
-# Jupyter-Notebook-Assignment
-Jasmine Jimenez
-Tools For Data Sci- Final Assignment
-Task: create markdown cells
+# My Jupyter Notebook on IBM Watson Studio
+
+**Jasmine Jimenez**
+
+Data Analyst for a well-known fashion brand
+
+*Data Science has become an interest of mine after learning that this field involves more than simply analyzing data tables/charts. From taking this course, I am now aware that there exists a possible future job for myself one day where I can combine my interest in fashion and my knowledge of mathematics/analytics.*
+
+Cell 5 should output the expression "2+2"
+
+2+2
+
 # Fashion Store Data (Top 10 Best Sellers)
 |SKU | MSRP | Cost | Item | Material | Color |
 |----|------|------|------|----------|-------|
@@ -15,3 +23,7 @@ Task: create markdown cells
 |1342|12.99|5.99|Dress|Polyester|Tan|
 |1251|42.00|12.00|Dress|Satin|Ivory|
 |1003|36.00|18.00|Top|Cotton|Crimson|
+
++ make list of assignments
++ notes
++ categorize
